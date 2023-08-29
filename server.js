@@ -3,7 +3,6 @@ const express = require('express');
 const path = require('path'); 
 
 //require to get database
-const artistDb = require('./data/artists-db');
 const artistsDb = require('./data/artists-db');
 
 //Create our express app
